@@ -1,7 +1,7 @@
 <?php
 	$servidor = "localhost";
-	$usuario = "studi785_fasa";
-	$senha = "123456";
+	$usuario = "SeuUser";
+	$senha = "SeuLogin";
 	$dbname = "studi785_acolhimento";
 	
 	//Criar a conexao
