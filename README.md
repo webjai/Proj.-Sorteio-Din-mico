@@ -1,1 +1,1 @@
-# Proj.-Sorteio-Din-mico
+# Projeto Sorteio Dinâmico
