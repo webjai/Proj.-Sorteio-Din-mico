@@ -1,4 +1,4 @@
-Projeto de Sorteio Dinâmico para Semana de Integração Discente (SID)
+# Projeto de Sorteio Dinâmico para Semana de Integração Discente (SID)
 
 Este projeto consiste em um sistema de sorteio dinâmico desenvolvido para a Semana de Integração Discente (SID), no qual calouros e veteranos têm a chance de concorrer a prêmios no início do semestre.
 
