@@ -27,7 +27,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para r
 
 
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
