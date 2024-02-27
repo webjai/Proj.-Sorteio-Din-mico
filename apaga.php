@@ -9,7 +9,7 @@ include_once("conexao.php");?>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="Cesar Szpak">
+    <meta name="author" content="">
      <link rel="icon" href="imagens/fasavic.png">
     <link rel="stylesheet" type="text/css" href="./css/style.css" />
     
